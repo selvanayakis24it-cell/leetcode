@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0696-count-binary-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0799-champagne-tower](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0799-champagne-tower) |
 <!---LeetCode Topics End-->
