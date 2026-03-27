@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Simulation
 |  |
 | ------- |
