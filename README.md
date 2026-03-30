@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0031-next-permutation) |
 | [0055-jump-game](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0724-find-pivot-index](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Sliding Window
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0724-find-pivot-index) |
 | [3714-longest-balanced-substring-ii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Backtracking
 |  |
