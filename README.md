@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0031-next-permutation) |
 | [0055-jump-game](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0904-fruit-into-baskets](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0031-next-permutation) |
 | [0696-count-binary-substrings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0696-count-binary-substrings) |
 ## Dynamic Programming
 |  |
