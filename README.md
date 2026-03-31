@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Sliding Window
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0724-find-pivot-index) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3714-longest-balanced-substring-ii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Backtracking
 |  |
@@ -74,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0761-special-binary-string) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -88,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Enumeration
+|  |
+| ------- |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 <!---LeetCode Topics End-->
