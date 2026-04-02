@@ -5,5 +5,5 @@ class Solution {
             set.add(nums[i]);
         }
         return set.size()!=nums.length;
-            }
+    }
 }
