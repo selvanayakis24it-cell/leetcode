@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0205-isomorphic-strings) |
 | [0696-count-binary-substrings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0761-special-binary-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
