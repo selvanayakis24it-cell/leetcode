@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0696-count-binary-substrings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0696-count-binary-substrings) |
 ## Dynamic Programming
 |  |
@@ -131,13 +132,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0071-simplify-path) |
+| [0234-palindrome-linked-list](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
