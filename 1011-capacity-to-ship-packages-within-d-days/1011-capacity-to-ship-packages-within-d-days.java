@@ -27,13 +27,15 @@ class Solution {
     public static boolean capacity(int [] weights,int days,int k){
         int count=1;
         int sum=0;
-        for(int i=0;i<weights.length;i++){
-            sum+=weights[i];
-            if(sum>k){
-                sum=weights[i];
-                count++;
-            }
+       for(int w:weights){
+        if(sum+w > k ){
+            count++;
+            sum=w;
         }
+        else{
+            sum+=w;
+        }
+       }
 return count<=days;
     }
 }
