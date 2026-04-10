@@ -24,18 +24,18 @@ class Solution {
         }
         return ans;
     }
-    public static boolean capacity(int [] weights,int days,int k){
-        int count=1;
-        int sum=0;
+    public static boolean capacity(int [] weights,int days,int capacity){
+        int daysneeded=1;
+        int currentload=0;
        for(int w:weights){
-        if(sum+w > k ){
-            count++;
-            sum=w;
+        if(currentload+w > capacity ){
+            daysneeded++;
+            currentload=w;
         }
         else{
-            sum+=w;
+            currentload+=w;
         }
        }
-return count<=days;
+return daysneeded<=days;
     }
 }
