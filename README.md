@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1109-corporate-flight-bookings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0696-count-binary-substrings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0696-count-binary-substrings) |
+| [0905-sort-array-by-parity](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0217-contains-duplicate) |
 | [0761-special-binary-string](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0761-special-binary-string) |
+| [0905-sort-array-by-parity](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Greedy
 |  |
