@@ -1,22 +1,23 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
-        if(digits.isEmpty()) 
-        return Collections.emptyList();
-        String[] phone_map={"abc","def","ghi","jkl","mno","pqrs","tuv",
-        "wxyz"};
-        List<String> output =new ArrayList<>();
-        backtrack("",digits,phone_map,output);
-        return output;
-    }
-    public static void backtrack(String combination,String digits,String[] phone_map,List<String> output){
-        if(digits.isEmpty()){
-            output.add(combination);
+        List<String> ans=new ArrayList<>();
+        if(digits.length()==0){
+            return ans;
         }
-        else{
-            String letters = phone_map[digits.charAt(0)-'2'];
-            for(char letter : letters.toCharArray()){
-                backtrack(combination+letter,digits.substring(1),phone_map,output);
-            }
+        backtrack("",digits,ans,0);
+        return ans;
+    }
+    public static void backtrack(String curr,String digits,List<String> ans,int index){
+        String[] map={"abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+        if(index==digits.length()){
+            ans.add(curr);
+            return;
+        }
+        String letters=map[digits.charAt(index)-'2'];
+        for(char ch:letters.toCharArray()){
+            String next=curr+ch;
+            backtrack(next,digits,ans,index+1);
+
         }
     }
 }
