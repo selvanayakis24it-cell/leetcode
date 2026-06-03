@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0088-merge-sorted-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0205-isomorphic-strings) |
 | [0696-count-binary-substrings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0696-count-binary-substrings) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0401-binary-watch) |
 ## Bit Manipulation
@@ -198,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
