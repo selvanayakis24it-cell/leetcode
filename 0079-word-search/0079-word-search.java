@@ -4,24 +4,24 @@ class Solution {
         int col=board[0].length;
         for(int i=0;i<row;i++){
             for(int j=0;j<col;j++){
-               if(dfs(board,word,i,j,0)){
-                return true;
-               }
+                if(dfs(i,j,board,word,0)){
+                    return true;
+                }
             }
         }
         return false;
     }
-    public static boolean dfs(char[][] board,String word,int row,int col,int index){
+    public static boolean dfs(int i,int j,char[][] board,String word,int index){
         if(index==word.length()){
             return true;
         }
-        if(row<0 || row>=board.length || col<0 || col>=board[0].length || board[row][col] != word.charAt(index)){
+        if(i<0 || i>=board.length || j<0 || j>=board[0].length || board[i][j] != word.charAt(index)){
             return false;
         }
-        char temp=board[row][col];
-        board[row][col]='#';
-        boolean found = dfs(board,word,row+1,col,index+1) ||dfs(board,word,row-1,col,index+1) || dfs(board,word,row,col+1,index+1) || dfs(board,word,row,col-1,index+1);
-        board[row][col]=temp;
+        char temp=board[i][j];
+        board[i][j]='#';
+        boolean found=dfs(i+1,j,board,word,index+1) || dfs(i-1,j,board,word,index+1) || dfs(i,j+1,board,word,index+1) || dfs(i,j-1,board,word,index+1);
+        board[i][j]=temp;
         return found;
     }
 }
