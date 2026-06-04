@@ -9,36 +9,26 @@
  */
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        List<TreeNode> pathp=new ArrayList<>();
-        List<TreeNode> pathq=new ArrayList<>();
-        List<TreeNode> ans1=new ArrayList<>();
-        List<TreeNode> ans2=new ArrayList<>();
-        find(root,p,ans1,pathp);
-        find(root,q,ans2,pathq);
-        TreeNode ans=null;
-
-        for (int i=0;i<Math.min(pathp.size(),pathq.size());i++){
-            if(pathp.get(i)==pathq.get(i)){
-                ans=pathp.get(i);
-            }
-            else{
-                break;
-            }
-        }
-        return ans;
+        return lca(root,p,q);
     }
-    public void find(TreeNode root,TreeNode target,List<TreeNode> curr,List<TreeNode> result){
+    public static TreeNode lca(TreeNode root, TreeNode p, TreeNode q){
         if(root==null){
-            return;
+            return null;
         }
-        curr.add(root);
-        if(root==target){
-            result.addAll(curr);
-            return;
+        if(root==p||root==q){
+            return root;
         }
-        find(root.left,target,curr,result);
-        find(root.right,target,curr,result);
-        curr.remove(curr.size()-1);
-
+        TreeNode l=lca(root.left,p,q);
+        TreeNode r=lca(root.right,p,q);
+        if(l!=null && r!=null){
+            return root;
+        }
+        if(l!=null){
+            return l;
+        }
+        if(r!=null){
+            return r;
+        }
+        return null;
     }
 }
