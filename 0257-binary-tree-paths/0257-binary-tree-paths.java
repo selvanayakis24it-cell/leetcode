@@ -20,16 +20,15 @@ class Solution {
         return ans;
     }
     public void path(TreeNode root,String path,List<String> ans){
-if(root==null){
-    return;
-}
-path=path+root.val;
+        if(root==null){
+            return;
+        }
+        path+=root.val;
         if(root.left==null && root.right==null){
             ans.add(path);
             return;
         }
-
-    path(root.left,path+"->",ans);
-    path(root.right,path+"->",ans);
-}
+        path(root.left,path+"->",ans);
+        path(root.right,path+"->",ans);
+    }
 }
