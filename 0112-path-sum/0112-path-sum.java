@@ -17,16 +17,17 @@ class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
         return path(root,targetSum);
     }
-    public static boolean path(TreeNode root,int target){
-    
+    public boolean path(TreeNode root,int target){
         if(root==null){
             return false;
         }
+
+    
         if(root.left==null && root.right==null){
             return target==root.val;
         }
         return path(root.left,target-root.val)||
         path(root.right,target-root.val);
-
+        
     }
 }
