@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0401-binary-watch) |
+| [0797-all-paths-from-source-to-target](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Matrix
 |  |
@@ -279,5 +281,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0112-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
