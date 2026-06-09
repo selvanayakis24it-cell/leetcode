@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Matrix
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0695-max-area-of-island) |
 ## Tree
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Graph Theory
@@ -296,4 +300,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
