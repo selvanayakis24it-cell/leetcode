@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0994-rotting-oranges](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1109-corporate-flight-bookings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0994-rotting-oranges) |
 ## Tree
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0994-rotting-oranges](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Graph Theory
 |  |
