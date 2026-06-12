@@ -1,17 +1,21 @@
 class Solution {
     public int climbStairs(int n) {
-        if(n<1){
+        if(n<=2){
             return n;
         }
-//space optimization
-
-        int prev1=1;
-        int prev2=0;
-        for(int i=0;i<n;i++){
-            int curr=prev1+prev2;
-            prev2=prev1;
-            prev1=curr;
+        int[] dp=new int[n+1];
+        Arrays.fill(dp,-1);
+        return fun(n,dp);
+    }
+    public int fun(int n,int[] dp){
+        if(n<=2){
+            return n;
         }
-        return prev1;
+        if(dp[n]!=-1){
+            return dp[n];
+        }
+        int res=fun(n-1,dp)+fun(n-2,dp);
+        dp[n]=res;
+        return res;
     }
 }
