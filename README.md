@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0509-fibonacci-number) |
 | [2169-count-operations-to-obtain-zero](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
