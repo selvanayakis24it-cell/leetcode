@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0695-max-area-of-island) |
