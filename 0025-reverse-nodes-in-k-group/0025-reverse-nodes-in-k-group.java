@@ -1,35 +1,43 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        if (head == null || k == 1) return head;
-
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
-        ListNode prev = dummy, curr = head;
-
-        // Count the number of nodes in the list
-        int count = 0;
-        while (curr != null) {
+     if(head==null){
+        return null;
+     } 
+    int totalnode=totalnodes(head);  
+    if(totalnode<k){
+        return head;
+    }
+    ListNode prev=null;
+    ListNode nxt=null;
+    ListNode temp=head;
+    int count=k;
+    while(temp!=null && count!=0){
+        nxt=temp.next;
+        temp.next=prev;
+        prev=temp;
+        temp=nxt;
+        count--;
+    }
+    head.next=reverseKGroup(temp,k);
+    return prev;
+    }
+    public int totalnodes(ListNode head){
+        int count=0;
+        ListNode temp=head;
+        while(temp!=null){
             count++;
-            curr = curr.next;
+            temp=temp.next;
         }
-
-        // Reverse k nodes at a time
-        while (count >= k) {
-            curr = prev.next;
-            ListNode next = curr.next;
-
-            // Reverse k nodes
-            for (int i = 1; i < k; i++) {
-                curr.next = next.next;
-                next.next = prev.next;
-                prev.next = next;
-                next = curr.next;
-            }
-
-            prev = curr;
-            count -= k;
-        }
-
-        return dummy.next;
+        return count;
     }
 }
