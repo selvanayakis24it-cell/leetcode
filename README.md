@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3689-maximum-total-subarray-value-i](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sliding Window
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0994-rotting-oranges) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Tree
 |  |
 | ------- |
