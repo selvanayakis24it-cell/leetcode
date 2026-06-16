@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0257-binary-tree-paths) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0234-palindrome-linked-list) |
