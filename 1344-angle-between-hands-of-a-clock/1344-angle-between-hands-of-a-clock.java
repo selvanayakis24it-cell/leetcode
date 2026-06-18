@@ -3,6 +3,6 @@ class Solution {
         double minutesangle=minutes*6;
         double hourangles=(hour*30) + (minutes*0.5);
         double ans=Math.abs(minutesangle-hourangles);
-        return Math.min(ans,360-ans);
+        return Math.min(ans,360-ans);//to find which is smaller either ans or 360 - ans
     }
 }
