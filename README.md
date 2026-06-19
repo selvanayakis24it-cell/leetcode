@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3689-maximum-total-subarray-value-i](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0724-find-pivot-index) |
 | [1109-corporate-flight-bookings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3714-longest-balanced-substring-ii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Backtracking
