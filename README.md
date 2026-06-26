@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1109-corporate-flight-bookings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1109-corporate-flight-bookings) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0761-special-binary-string) |
+| [0912-sort-an-array](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0217-contains-duplicate) |
 | [0761-special-binary-string](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0761-special-binary-string) |
 | [0905-sort-array-by-parity](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0912-sort-an-array) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Greedy
 |  |
@@ -380,5 +383,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
