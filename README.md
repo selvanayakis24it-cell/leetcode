@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3689-maximum-total-subarray-value-i](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1796-second-largest-digit-in-a-string](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3714-longest-balanced-substring-ii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Binary Search
 |  |
 | ------- |
