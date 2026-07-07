@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2169-count-operations-to-obtain-zero](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
 | ------- |
