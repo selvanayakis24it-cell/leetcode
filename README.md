@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0198-house-robber) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0136-single-number) |
 | [0401-binary-watch](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0868-binary-gap) |
