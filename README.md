@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0125-valid-palindrome) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0136-single-number) |
 | [0401-binary-watch](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0401-binary-watch) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0509-fibonacci-number) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0067-add-binary) |
 | [2169-count-operations-to-obtain-zero](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3612-process-string-with-special-operations-i](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3612-process-string-with-special-operations-i) |
