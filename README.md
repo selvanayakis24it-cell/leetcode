@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3689-maximum-total-subarray-value-i](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sliding Window
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Tree
 |  |
 | ------- |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0210-course-schedule-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
 |  |
 | ------- |
