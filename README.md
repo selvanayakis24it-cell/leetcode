@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0912-sort-an-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1109-corporate-flight-bookings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1109-corporate-flight-bookings) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2063-vowels-of-all-substrings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2169-count-operations-to-obtain-zero](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
