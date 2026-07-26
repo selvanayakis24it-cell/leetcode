@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0704-binary-search) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2063-vowels-of-all-substrings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2063-vowels-of-all-substrings) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0761-special-binary-string) |
 | [0905-sort-array-by-parity](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0912-sort-an-array) |
