@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2063-vowels-of-all-substrings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [3612-process-string-with-special-operations-i](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0067-add-binary) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Linked List
 |  |
 | ------- |
