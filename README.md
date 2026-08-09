@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0695-max-area-of-island) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0724-find-pivot-index) |
 | [1109-corporate-flight-bookings](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
