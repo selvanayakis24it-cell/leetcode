@@ -6,9 +6,8 @@ class Solution {
         int count=0;
         for(int i=0;i<nums.length;i++){
             prefix+=nums[i];
-            int remove=prefix-k;
-            if(map.containsKey(remove)){
-                count+=map.get(remove);
+            if(map.containsKey(prefix-k)){
+                count+=map.get(prefix-k);
             }
             map.put(prefix,map.getOrDefault(prefix,0)+1);
         }
