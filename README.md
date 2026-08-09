@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3689-maximum-total-subarray-value-i](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sliding Window
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3714-longest-balanced-substring-ii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3714-longest-balanced-substring-ii) |
+| [3731-find-missing-elements](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0912-sort-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [3731-find-missing-elements](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
