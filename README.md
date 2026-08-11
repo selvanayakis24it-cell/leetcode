@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1796-second-largest-digit-in-a-string](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3714-longest-balanced-substring-ii](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3731-find-missing-elements](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3731-find-missing-elements) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0912-sort-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/selvanayakis24it-cell/leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
