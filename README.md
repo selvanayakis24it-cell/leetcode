@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1796-second-largest-digit-in-a-string](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1631-path-with-minimum-effort](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/selvanayakis24it-cell/leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1631-path-with-minimum-effort](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/selvanayakis24it-cell/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
@@ -502,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1631-path-with-minimum-effort) |
+## DP on Trees
+|  |
+| ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/selvanayakis24it-cell/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 <!---LeetCode Topics End-->
